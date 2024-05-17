@@ -1,0 +1,35 @@
+.header{
+    background-color: #f68e8e;
+    width: auto;
+    height: 400px;
+}
+
+.fa-solid {
+     text-align: center;
+     margin: 40px;
+     color: black;
+    
+}
+.icons{
+    background-color: aqua;
+    border-radius: 1000px;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    display: inline-flex;
+    margin: 20px;
+    
+}
+.hello{
+    text-align: center;
+   padding: 20px;
+}
+
+.para{
+    width: 300px;
+    text-align: center;
+    margin: -30px;
+}
+button{
+     margin: 80px;
+  }
